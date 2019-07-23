@@ -1,0 +1,43 @@
+{
+  "language": "Chinese",
+  "settings": {
+    "settings": "设置",
+    "openSettings": "打开设置",
+    "magmaBossWarning": "岩浆怪Boss 警告",
+    "itemDropConfirmation": "物品丢弃确认",
+    "warningTime": "提示时间: %time%s",
+    "manaBar": "能量条: %type%",
+    "manaBarTypes": {
+      "barAndText": "Bar & Text",
+      "bar": "Bar",
+      "text": "Text",
+      "off": "Off"
+    },
+    "hideSkeletonHatBones": "隐藏骷髅帽的骨头",
+    "skeletonHatBonesBar": "骷髅帽骨头显示",
+    "hideFoodAndArmor": "隐藏原版食物 & 防御栏",
+    "fullInventoryWarning": "满背包提示",
+    "magmaBossHealthBar": "岩浆怪Boss血条",
+    "disableEmberRodAbility": "岛屿禁用烈焰棒技能",
+    "warningColor": "提示颜色",
+    "confirmationColor": "确认颜色",
+    "manaTextColor": "能量条文字颜色",
+    "manaBarColor": "能量条颜色",
+    "editLocations": "更改位置",
+    "guiScale": "大小: %scale%",
+    "resetLocations": "重置位置",
+    "hideDurability": "隐藏装备耐久",
+    "showEnchantmentsReforges": "附魔 & 重铸",
+    "minionStopWarning": "小人停止运作后的提示"
+  },
+  "messages": {
+    "dropConfirmation": "再次丢弃此物品以确认!",
+    "magmaBossWarning": "岩浆怪 Boss!",
+    "fullInventory": "背包满了兄弟!",
+    "newVersion": "A new version, %newestVersion% is available. Download it by clicking here.",
+    "discord": "Want to view the changes? Click here to join my discord.",
+    "developmentVersion": "You are running a development version: %version%. The latest online version is %newestVersion%",
+    "labymod": "Labymod Users: Hide Food & Armor Bar is incompatible.",
+    "minionCannotReach": "一个 %type% 小人因为打不到怪物已经停止运作了!"
+  }
+}
